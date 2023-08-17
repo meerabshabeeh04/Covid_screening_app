@@ -1,0 +1,106 @@
+body {
+    width: 405px;
+    height: 949px;
+  }
+  
+  div.top {
+    height: 450px;
+    background-color:#E9ECEF;
+    padding: 40px;
+  }
+  
+  img.img {
+    width: 50px;
+    height: 50px;
+    padding:0;
+  }
+  
+  img#side-img {
+    width: 100px;
+  }
+  
+  div#para {
+    margin-top: 10px;
+    margin-bottom: 0px;
+  }
+  
+  p.head {
+    font-size: 30px;
+  }
+  
+  p.txt {
+    font-size: 13px;
+  }
+  
+  div#bottom {
+    height: 450px;
+    padding: 30px;
+  }
+
+  div.info{
+    cursor: pointer;
+  }
+  div.info-box{
+    padding:0;
+  }
+  
+  div.box-img{
+    width:80px;
+  }
+  
+  .box-head{
+    margin:0;
+  }
+  
+  div.col-1.link{
+    margin:5px;
+    align-self:center;
+    color: #D6D6D6;
+  }
+  
+  hr.line{
+    color:#D6D6D7;
+    margin-top: 0;
+  }
+
+  div.modal-dialog{
+    width: 403px;
+    height: 717px;
+    background-color: #E9ECEF;
+  }
+
+  div.modal-header{
+    background-color: #E9ECEF;
+    padding: 15px 10px 10px 10px ;
+  }
+
+  div.modal-body{
+    background-color: #FFFFFF;
+    padding: 25px 25px 25px 25px;
+  }
+
+  p.question-head{
+    font-size: 25px;
+  }
+  
+  img.main-img{
+    margin-top: 20px;
+    margin-bottom: 10px;
+  }
+  
+  button.btnn{
+    margin: 10px 0 10px 0;
+    padding: 10px;
+  }
+
+  .question .row{
+    display: none;
+}
+
+  .question .active{
+    display: flex;
+}
+
+ol.list{
+    padding:15px 30px 15px 30px;
+  }
